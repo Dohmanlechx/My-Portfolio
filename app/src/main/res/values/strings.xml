@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+
+    <string name="about_david">
+        "My name is David and I'm into the second and last year of my education, Mobile Application Development at Nackademin here in Stockholm. Currently I'm looking for an internship for the spring term of 2019. My best qualities: Quick-learnt, likes to work independent and to improve myself in programming all the time."
+    </string>
+
+    <string name="skills">"• Android "\n"• Java "\n"• HTML "\n"• CSS "\n"• JavaScript "\n"• C# "\n"• REST "\n"• Photoshop "\n"• Git"
+    </string>
+
+    <string name="work">"• Boil an egg, bae • "\n" An egg timer with in-built Tic Tac Toe against a hard bot "\n"• SDUR • "\n" An app for my association where I'm an trustee as cashier "\n"• DOOS Golf • "\n" Mini-golf game written in Unity"
+    </string>
+
+    <string name="contact">NA
+    </string>
+</resources>
